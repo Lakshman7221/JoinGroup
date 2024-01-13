@@ -21,7 +21,7 @@ const pageHandler = (pageNum)=>{
       <section className="d-flex justify-content-center my-3">
         <div className="text-center">
         <h3>All Users </h3>
-        <p className="w-75 m-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum eius, unde ut enim doloribus ipsa cupiditate, tenetur illo sunt vel sequi obcaecati libero perferendis nostrum exercitationem hic quam rem in.
+        <p className="w-75 m-auto">Lorem ipsum dolor amet consectetur adipisicing elit. Eum eius, unde ut enim doloribus ipsa cupiditate, tenetur illo sunt vel sequi obcaecati libero perferendis nostrum exercitationem hic quam rem in.
         Molestias magni fu explicabo, corrupti illum iusto?</p>
         </div>
       </section>

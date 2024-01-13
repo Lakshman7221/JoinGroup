@@ -26,7 +26,7 @@ const pageHandler = (pageNum)=>{
         </div>
       </section>
       <section className="container px-3 d-flex justify-content-between align-items-center" style={{backgroundColor:"#ccf2ff"}}>
-        <div onClick={()=> navigate("/")} className="btn text-gray py-2 bolder fs-6"><IoMdArrowRoundBack size={30}/></div>
+        <div onClick={()=> navigate("/JoinGroup/")} className="btn text-gray py-2 bolder fs-6"><IoMdArrowRoundBack size={30}/></div>
         <section className="d-flex justify-content-center">
             <Pagination users={allEmployes} pageHandler={pageHandler}/>   
       </section>

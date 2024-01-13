@@ -25,7 +25,7 @@ const App = () => {
         <ToastContainer/>
         <Routes>
           {/* <Route path="/" element={<Dummy/>} /> */}
-          <Route path="/" element={<AllUsers/>} />
+          <Route path="/JoinGroup/" element={<AllUsers/>} />
           <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/update/:id" element={<JoinUserModel/>} />
           <Route path="/:id" element={<ConfirmModel/>} />
